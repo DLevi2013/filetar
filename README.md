@@ -1,6 +1,6 @@
 # MonkerSoft Development :: FileTár - Fájl nyilvántartó szoftver
 ## Telepítés:
-
+### Csak Telepítsd és használhatod!
 
 
 
